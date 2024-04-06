@@ -1,0 +1,80 @@
+@media(max-width:767px){
+    .navbar-star{
+        visibility: hidden;
+        display: none;
+    }
+    .navbar-nav{
+        background-color:#fff;
+        color:#fff;
+    }
+    .main{
+        margin-top: -20px !important;
+    } 
+.special{
+    margin-top: -20px;;
+}
+.navbar{
+    background-color: #f85c70!important;
+}
+.border-right{
+    border-right: 0px !important;
+}
+.xl-icon{
+    font-size: 65px;
+}
+.header-contant{
+    margin-left :100px!important;
+} 
+.header-icon{
+    margin-left :90px!important;
+}
+.header-contant h4{
+    font-weight: 400;
+    font-size: 25px;
+}
+.header-contant h1{
+    font-weight: 600;
+    font-size: 40px;
+}
+.header-contant h6{
+    font-weight: 600;
+    font-size: 30px;
+    padding:10px 0px 20px 0px !important;
+    }
+.navbar-toggler{
+    color: #fff!important;
+}  
+
+}
+@media(max-width:575px){
+    
+} 
+    
+@media(min-width:575px)and (max-width:767px){ 
+    .border-right {
+        border-right: none;
+      } 
+     
+}
+
+@media (min-width: 768px)and (max-width:991px) {
+    .border-right {
+        border-right: 0px !important;
+      } 
+      .nav-item {
+        padding: 0px 5px;
+    }
+    .about-card {
+        border-right: 0px solid #dee2e6; 
+    }
+ }
+
+@media(min-width:992px)and (max-width:1199px){
+    
+}
+@media(min-width:1200px)and (max-width:1399px){
+    
+}
+@media(min-width:1400px){
+    
+}
